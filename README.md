@@ -1,1 +1,1 @@
-# Youtube TypeScript Template
+# TypeScript Template
